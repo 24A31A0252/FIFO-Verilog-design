@@ -11,7 +11,6 @@ The design was created and simulated using Xilinx Vivado.
 
 ## Tools Used
 - Xilinx Vivado
-- Verilog HDL
 
 ## Files
 fifo_project.v : Verilog RTL implementation of FIFO
