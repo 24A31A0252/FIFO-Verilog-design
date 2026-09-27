@@ -13,7 +13,7 @@ The design was created and simulated using Xilinx Vivado.
 - Xilinx Vivado
 
 ## Files
-fifo_project.v : Verilog RTL implementation of FIFO
+fifo_project.1 : Verilog RTL implementation of FIFO
 
 ## Applications
 - Data buffering
